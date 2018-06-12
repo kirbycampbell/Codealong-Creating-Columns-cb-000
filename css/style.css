@@ -85,6 +85,7 @@ img, video, audio {
   min-width: 960px;
   max-width: 1080px;
   margin: 0 auto;
+  clear: both;
 }
 
 .col-1 {
